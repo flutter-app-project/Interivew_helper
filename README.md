@@ -1,5 +1,6 @@
 
 # Interivew_helper
+The app we want serves you for your interview preparation and brain exercises, it has questions and answers divided into various different categories to ease your preparation.  If you focus on it, then it can cover up to 90% common interview questions.
 
 This simple flutter app serves you for your interview preparation and brain exercises, it has questions and answers divided into various different categories to ease your preparation.
 
